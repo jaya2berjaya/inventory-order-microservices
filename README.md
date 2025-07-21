@@ -14,7 +14,7 @@ Untuk menjalankan proyek ini secara lokal, Anda memerlukan hal berikut:
 
 * **PostgreSQL** atau RDBMS yang kompatibel
 
-* **Postman** (untuk pengujian API)
+* **Railway** (untuk pengujian API)
 
 * **Docker (opsional)** – untuk database dan deployment
 
